@@ -1,9 +1,16 @@
 #include <stdlib.h>
 #include <stdio.h>
 #include <time.h>
+
 /* more headers goes there */
-/*function to determine positive and negative integer*/
+/**
+ *main - function to determine positive and negative integer
+ *takes input n and checks it
+ *Return: Always 0
+ *(Success)
+ */
 /* betty style doc for function main goes there */
+
 int main(void)
 {
 	int n;
