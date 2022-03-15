@@ -2,7 +2,7 @@
 #include <time.h>
 #include <stdio.h>
 /* more headers goes there */
-/** 
+/**
 *main - this prints the last
 * digit of the inputed value
 * Return: Always return 0 (Success)
