@@ -1,1 +1,1 @@
-continuation of pointers and arrays
+My second array and strings readme for alx
