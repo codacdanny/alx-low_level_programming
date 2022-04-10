@@ -1,2 +1,1 @@
-My first static library
-
+added read me file
